@@ -1,0 +1,2 @@
+Git workflow practice by Leo Wang.
+Inspect changes before staging.
