@@ -1,2 +1,2 @@
 Git workflow practice by Leo Wang.
-Inspect changes before staging.
+Inspect working-tree and staged changes before committing.
